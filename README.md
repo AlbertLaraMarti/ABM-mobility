@@ -1,4 +1,4 @@
-These models were created using NetLogo 6.4.0. It's recommended to use the same version to run it.
+These models were created using NetLogo 6.4.0. It's recommended to use the same version to run them.
 Download all files and save them in the same folder.
 - Model 0 (TFM_model_v00.5): 25 x 25 m open space, random location of circular obstacles, pedestrians follow a certain direction
 - Model 1 (TFM_model_v01.3): Barcelona's 100 x 100 m urban layout (choose among many), pedestrians go from one transitable border to any other
