@@ -9,6 +9,7 @@ References:
 - Tordeux, A. (n.d.). NetLogo Web: Social-Force-Model. Recovered April 30 2024, de https://www.vzu.uni-wuppertal.de/fileadmin/site/vzu/Social-Force-Model.html?speed=0.5
 - Schönauer, R., Stubenschrott, M., Huang, W., Rudloff, C., & Fellendorf, M. (2012). Modeling Concepts for Mixed Traffic. https://doi.org/10.3141/2316-13, 2316, 114-121. https://doi.org/10.3141/2316-13
 - Anvari, B., Bell, M. G. H., Sivakumar, A., & Ochieng, W. Y. (2015). Modelling shared space users via rule-based social force model. Transportation Research Part C: Emerging Technologies, 51. https://doi.org/10.1016/j.trc.2014.10.012
+- Wilensky, U. (1999). NetLogo (6.4.0). Center for Connected Learning and Computer-Based Modeling.
 
 Author:
 Albert Lara Martí (albertlara90@gmail.com)
